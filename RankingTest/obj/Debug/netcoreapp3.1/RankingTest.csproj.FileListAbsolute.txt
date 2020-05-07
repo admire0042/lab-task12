@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\bin\Debug\netcoreapp3.1\RankingTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\RankingTest\obj\Debug\netcoreapp3.1\RankingTest.genruntimeconfig.cache

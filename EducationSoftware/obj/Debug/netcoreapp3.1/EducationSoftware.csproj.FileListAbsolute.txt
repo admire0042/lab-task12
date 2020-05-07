@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\bin\Debug\netcoreapp3.1\EducationSoftware.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task12\EducationSoftware\obj\Debug\netcoreapp3.1\EducationSoftware.genruntimeconfig.cache
